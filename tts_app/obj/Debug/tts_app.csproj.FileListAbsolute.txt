@@ -1,0 +1,11 @@
+C:\Users\emree\source\repos\tts_app\tts_app\bin\Debug\tts_app.exe.config
+C:\Users\emree\source\repos\tts_app\tts_app\bin\Debug\tts_app.exe
+C:\Users\emree\source\repos\tts_app\tts_app\bin\Debug\tts_app.pdb
+C:\Users\emree\source\repos\tts_app\tts_app\obj\Debug\tts_app.csproj.AssemblyReference.cache
+C:\Users\emree\source\repos\tts_app\tts_app\obj\Debug\tts_app.csproj.SuggestedBindingRedirects.cache
+C:\Users\emree\source\repos\tts_app\tts_app\obj\Debug\tts_app.Form1.resources
+C:\Users\emree\source\repos\tts_app\tts_app\obj\Debug\tts_app.Properties.Resources.resources
+C:\Users\emree\source\repos\tts_app\tts_app\obj\Debug\tts_app.csproj.GenerateResource.cache
+C:\Users\emree\source\repos\tts_app\tts_app\obj\Debug\tts_app.csproj.CoreCompileInputs.cache
+C:\Users\emree\source\repos\tts_app\tts_app\obj\Debug\tts_app.exe
+C:\Users\emree\source\repos\tts_app\tts_app\obj\Debug\tts_app.pdb
