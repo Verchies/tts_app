@@ -37,8 +37,7 @@ namespace tts_app
 
                  if (soundExist($"{item}.wav")){
                     player.PlaySync();
-                    }
-                //   MessageBox.Show(dene.ToString());
+                    } 
             }
         }
 
@@ -46,8 +45,7 @@ namespace tts_app
         {
             string sesDosyalariKlasoru = @"C:\Users\emree\source\repos\tts_app\tts_app\Resources";
             string sesDosyasiYolu = Path.Combine(sesDosyalariKlasoru, dosyaAdi);
-
-            // Dosya varsa true, yoksa false döndürün
+             
             return File.Exists(sesDosyasiYolu);
         }
         private void textBox1_TextChanged(object sender, EventArgs e)
@@ -59,7 +57,7 @@ namespace tts_app
         string text = "";
         private void kelimeAyir()
         {
-            sonListe.Clear(); // Clear the list to avoid appending previous results
+            sonListe.Clear(); 
             string kelime = "";
             string harfler = "abcçdefgğhıijklmnoöprsştuüvyzqwx";
             for (int n = 0; n < text.Length; n++)
@@ -101,7 +99,7 @@ namespace tts_app
             bitli += "-";
 
             bitli = bitli
-                .Replace("10001", "100-01")
+                .Replace("10001", "10-001")
                 .Replace("10101", "101-01")
                 .Replace("1001", "10-01")
                 .Replace("0101", "01-01")
